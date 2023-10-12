@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDb49789d2d97531103707c3552b108e7c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7116b41297353110d973be9fe153af5b</scope_name>
+        <serialized_content>{"FlowDesigner:FDb49789d2d97531103707c3552b108e7c":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDb49789d2d97531103707c3552b108e7c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"child_name\":\"Names\",\"uiUniqueId\":\"7a4dfc66-a494-4bf1-9671-7cf0a934220c\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDb49789d2d97531103707c3552b108e7c\",\"child_label\":\"Names\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"5\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"fd17fe76-8c9a-46d0-b3eb-d830b8995010\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 13:05:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>789789d297753110d973be9fe153af7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDb49789d2d97531103707c3552b108e7c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Games API Spoke" source="x_1115228_games_ap">7116b41297353110d973be9fe153af5b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Games API Spoke">7116b41297353110d973be9fe153af5b</sys_scope>
+        <sys_update_name>sys_complex_object_789789d297753110d973be9fe153af7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:05:27</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
